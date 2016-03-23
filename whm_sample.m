@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                 Solving 1-D nonlinear IVP test problem by
+%                 Solution of 1D nonlinear IVP test problem by
 %                  Wavelet Haar Method (WHM)
 %
 %               y''(x) = - 2 y(x) y'(x) , y(0) = 0, y'(0) = - 1,
